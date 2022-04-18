@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on my Bachelor of Information Technology (Computer Science)
-- 🌱 I’m currently aiming to gain entry to a Bachelor Degree, and become a Software Developer full time for an established company
+- 🌱 I’m currently aiming to secure full-time employment as a software engineer commencing in early 2023, once I have completed my internship and Bachelors Degree
 - 👯 I’m looking to collaborate on any intermediate level projects in Python, C# and Java
 - 📫 How to reach me: lukerobertdickinson@gmail.com
 
